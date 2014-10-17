@@ -33,7 +33,7 @@ class dog extends animals
 	
 }
 
-$animal = new dog('pitbull', 4, 1, 2);
+$animal = new dog('pitbull', 6, 2, 3);
 
 
 
